@@ -395,7 +395,7 @@ export default function Portfolio() {
                     {p.demo && (
                       <Button asChild size="sm">
                         <a href={p.demo} className="flex items-center">
-                          <ExternalLink className="h-4 w-4 mr-2" /> Live
+                          <ExternalLink className="h-4 w-4 mr-2" /> Paper
                         </a>
                       </Button>
                     )}
