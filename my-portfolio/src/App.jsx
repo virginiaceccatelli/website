@@ -21,7 +21,7 @@ const THEME = {
   badge: "bg-pink-300/40 text-neutral-100",
   badgeOutline: "bg-zinc-800 border border-pink-200 text-zinc-200",
 
-  // buttons (optional accent)
+  // buttons 
   btnPrimary: "bg-pink-200 text-zinc-800 hover:bg-pink-300 border border-pink-200",
   btnOutline: "bg-transparent text-neutral-100 border border-neutral-700 hover:bg-neutral-800",
 };
@@ -95,7 +95,7 @@ export default function Portfolio() {
   const EMAIL = "virginia.ceccatelli@mail.mcgill.ca";
   const LINKEDIN = "https://www.linkedin.com/in/virginia-ceccatelli/";
   const GITHUB = "https://github.com/virginiaceccatelli";
-  const RESUME_URL = "https://drive.google.com/file/d/18eW_YrSpYpFFItp9andOmexTMAuwRGRd/view?usp=sharing";
+  const RESUME_URL = "https://drive.google.com/file/d/1fwcGDuo_LJed4UKyVGelHhrmCWrCrkTJ/view?usp=sharing";
   const PHONE = ""; // optional
 
   const skills = {
