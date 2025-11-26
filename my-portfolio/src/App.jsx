@@ -96,7 +96,7 @@ export default function Portfolio() {
   const LINKEDIN = "https://www.linkedin.com/in/virginia-ceccatelli/";
   const GITHUB = "https://github.com/virginiaceccatelli";
   const RESUME_URL = "https://drive.google.com/file/d/1fwcGDuo_LJed4UKyVGelHhrmCWrCrkTJ/view?usp=sharing";
-  const PHONE = ""; // optional
+  const PHONE = ""; 
 
   const skills = {
     Languages: [
