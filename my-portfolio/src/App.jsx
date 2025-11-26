@@ -129,8 +129,7 @@ export default function Portfolio() {
     "Applied Machine Learning - COMP551",
     "Theory of Computation - COMP330",
     "Computer Networks - COMP535",
-    "Applied Robotics - COMP517",
-    "Database Systems - COMP420",
+    "Database Systems - COMP420"
   ];
 
   const achievements = [
@@ -160,6 +159,14 @@ export default function Portfolio() {
       tags: ["Cisco", "Subnetting", "Routing"],
       repo: "https://github.com/virginiaceccatelli/Cisco-Packet-Tracer-Projects",
       demo: "",
+    },
+
+    {
+      title: "COMP 551 Projects",
+      blurb: "Variety of Applied Machine Learning Projects spanning MLP, CNN and RNN (LSTM)",
+      tags: ["Machine Learning", "LSTM"],
+      repo: "",
+      demo: "https://drive.google.com/file/d/1mAVVFkWd_Az7LSAjEzgnGOS2SQMH8Okb/view?usp=sharing",
     },
   ];
 
